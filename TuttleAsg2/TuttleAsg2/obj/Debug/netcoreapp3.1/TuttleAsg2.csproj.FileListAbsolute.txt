@@ -1,0 +1,13 @@
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/bin/Debug/netcoreapp3.1/TuttleAsg2.deps.json
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/bin/Debug/netcoreapp3.1/TuttleAsg2.runtimeconfig.json
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/bin/Debug/netcoreapp3.1/TuttleAsg2.runtimeconfig.dev.json
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/bin/Debug/netcoreapp3.1/TuttleAsg2.dll
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/bin/Debug/netcoreapp3.1/TuttleAsg2.pdb
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.csproj.AssemblyReference.cache
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.AssemblyInfoInputs.cache
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.AssemblyInfo.cs
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.csproj.CoreCompileInputs.cache
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.dll
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.pdb
+/Users/anastasiatuttle/Desktop/Spring 2024/Operation Systems/TuttleAsg2/TuttleAsg2/obj/Debug/netcoreapp3.1/TuttleAsg2.genruntimeconfig.cache
